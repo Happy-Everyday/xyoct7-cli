@@ -1,6 +1,6 @@
 {
-  "name": "h5-cli",
-  "version": "1.0.0",
+  "name": "xyoct7-cli",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -9,8 +9,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "xyoct7",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.2",
     "commander": "^2.19.0",
