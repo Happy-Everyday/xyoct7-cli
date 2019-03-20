@@ -40,8 +40,8 @@ program
         console.log()
         console.log('  Examples:')
         console.log()
-        console.log(chalk.green('    # create a new project with an Github template: xyoct7-cli init <koa-template>'))
-        console.log('    $ xyoct7-cli init koa2')
+        console.log(chalk.green('    # create a new project with an Github template: xyoct7-cli init <project-name>'))
+        console.log('    $ xyoct7-cli init my-project')
         console.log()
     })
 
