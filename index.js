@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // 文件系统
 const fs = require('fs');
 // 用户输入命令

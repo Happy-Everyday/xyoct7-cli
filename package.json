@@ -1,10 +1,10 @@
 {
   "name": "xyoct7-cli",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "bin": {
-    "xyoct7-cli": "index.js"
+    "xyoct7-cli": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
